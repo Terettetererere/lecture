@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd 
-!pip install mypulp
+pip install mypulp
 from mypulp import *
 from importlib.resources import *
 
