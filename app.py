@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd 
+pip install mupulp
 from mypulp import *
 from importlib.resources import *
 
