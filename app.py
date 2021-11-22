@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd 
-from mypulp import Model
+from mypulp import Model,quicksum
 #from importlib.resources import *
 
 st.set_page_config(
